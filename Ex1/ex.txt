@@ -1,0 +1,11 @@
+
+
+Utilizando um editor qualquer escreva scripts que atendam as necessidades de 
+
+processamento dos seguintes problemas.
+
+a) Faça um script que o usuário entre com três números e que os armazene em três 
+
+variáveis com os seguintes nomes: MAIOR, INTERMEDIÁRIO E MENOR. (Suponha 
+
+três números diferentes).
