@@ -1,6 +1,4 @@
-
-
-Utilizando um editor qualquer escreva scripts que atendam as necessidades de 
+#Utilizando um editor qualquer escreva scripts que atendam as necessidades de 
 
 processamento dos seguintes problemas.
 

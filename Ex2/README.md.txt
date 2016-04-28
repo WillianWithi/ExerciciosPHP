@@ -1,4 +1,4 @@
-b) Crie um algoritmo que informe a quantidade total de calorias de uma refeição a 
+#Crie um algoritmo que informe a quantidade total de calorias de uma refeição a 
 
 partir da escolha do usuário que deverá informar o prato, a sobremesa e bebida 
 
