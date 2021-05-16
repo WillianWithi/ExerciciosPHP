@@ -1,3 +1,4 @@
-ALGUNS EXERCÕCIOS EM PHP DA 
-DISCIPLINA DE LINGUAGEM DE PROGRAMA«√O II
-COM PROFESSOR HUDSON COSTA
+<h1 align="center">
+    <br>
+    Exerc√≠cios para o estudo de PHP 
+</h1>
